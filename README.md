@@ -1,5 +1,8 @@
 # Foreign Direct Investment Analytics
 
+![image](https://github.com/LogeshwarTheDataIntellect/Foreign-Direct-Investment-Analytics/assets/104715001/92ce8a28-ce4a-4aca-bd4b-68934a4e129d)
+
+
 ## Overview
 
 This project aims to analyze Foreign Direct Investment (FDI) in India over the last 17 years (2000-01 to 2016-17). The dataset contains sector and financial year-wise data of FDI in India. By applying various analytical techniques, we aim to uncover trends, identify key metrics, and provide insights to guide investment decisions and policy-making.
